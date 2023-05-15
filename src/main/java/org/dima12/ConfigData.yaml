@@ -1,0 +1,7 @@
+FILE: logs/
+
+LEVEL: DEBUG
+
+MAX-SIZE: 1000
+
+FORMAT: .log
